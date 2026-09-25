@@ -735,7 +735,7 @@ def main(config_class):
                         if not has_valid:
                             log("  There are no valid synthons")
                     else:
-                        log("  no candidates")
+                        log("  No candidates")
                     
                     example_count += 1
 
