@@ -75,6 +75,12 @@ cd Synthon-CGR
 pip install -r requirements.txt
 ```
 
+
+The EFGs library is required for functional group extraction.
+Clone it from the official repository:
+```bash
+git clone https://github.com/bbu-imdea/efgs.git
+```
 ---
 
 ## Data Format
