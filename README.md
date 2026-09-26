@@ -1,4 +1,4 @@
-# Synthon-CGR: Interpretable prediction of cocrystal formation based on graph neural networks with explicit modeling of supramolecular syntons
+# Synthon-CGR: Co-crystal Formation Prediction with Crystal-Supervised Synthon Reasoning
 
 **Synthon-CGR** is an interpretable graph neural network that predicts co-crystal formation and explicitly identifies the supramolecular synthons — the real intermolecular interactions driving co-crystallization — making each prediction chemically grounded.
 
